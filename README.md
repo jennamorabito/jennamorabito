@@ -46,3 +46,7 @@ I'm a UC Berkeley master's student <img src="https://media.giphy.com/media/xlCMf
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+readme inspiration from [this gal](https://www.sitepoint.com/github-profile-readme/) 
