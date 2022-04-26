@@ -26,10 +26,23 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm a UC Berkeley master's student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> of Information and Data Science
+I'm a UC Berkeley master's student <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"> of Information and Data Science
 
-- 📈 Love data visualization and storytelling 
+- 📈 Data visualization and storytelling (and coffee) get me out of bed in the morning
 - :genie: Experienced with statistical methods and machine learning
 - :seedling: Learning Javascript, D3, and all things frontend
-- 🌍 Crave positive impact
+- 🌍 I crave positive impact
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-morabito/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+</div>
