@@ -27,12 +27,11 @@
 
 ### :woman_technologist: About Me :
 I'm a UC Berkeley master's student <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"> of Information and Data Science
-
 - 📈 Data visualization and storytelling (and coffee) get me out of bed in the morning
-- :genie: Experienced with statistical methods and machine learning
-- :seedling: Learning Javascript, D3, and all things frontend
+- 🕵️‍♀️ Experienced with experiments
+- 🌱 Learning Javascript, D3, and all things frontend
 - 🌍 I crave positive impact
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-morabito/)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-morabito/)
 
 ---
 
