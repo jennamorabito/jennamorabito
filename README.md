@@ -26,7 +26,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm a UC Berkeley master's student <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"> of Information and Data Science
+I'm a recent UC Berkeley master's graduate <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"> of Information and Data Science
 - 📈 Data visualization and storytelling (and coffee) get me out of bed in the morning
 - 🕵️‍♀️ Experienced with experiments
 - 🌱 Learning Javascript, D3, and all things frontend
