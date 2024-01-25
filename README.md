@@ -21,9 +21,9 @@
 </div>
 
 <!--  cord diagram banner  -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C5616AQGaUoZ4kJvceA/profile-displaybackgroundimage-shrink_200_800/0/1643680187228?e=2147483647&v=beta&t=NPdyPnX_dzG1GoxFgDBxx157fImPCcC7fd_l7MeNNkc" width=width/>
-</div>
+</div> -->
 
 ### :woman_technologist: About Me :
 I'm a recent UC Berkeley master's graduate <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"> of Information and Data Science
